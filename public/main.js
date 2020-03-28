@@ -6,6 +6,8 @@ const path = require('path');
 const url = require('url');
 const isDev = require('electron-is-dev');
 
+let some
+
 let enableCORS;
 if (!process.env.NODE_ENV || process.env.NODE_ENV === 'development') {
     enableCORS = false
