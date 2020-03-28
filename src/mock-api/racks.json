@@ -1,0 +1,1101 @@
+{
+    "count": 26,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 14,
+            "name": "RACK-MS",
+            "facility_id": "hall 301, rack E2 - Service ID: SE0296",
+            "display_name": "RACK-MS (hall 301, rack E2 - Service ID: SE0296)",
+            "site": {
+                "id": 11,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/11/",
+                "name": "11Shariko",
+                "slug": "11shariko"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 300,
+                "label": "4-post cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 48,
+            "desc_units": false,
+            "outer_width": 600,
+            "outer_depth": 1200,
+            "outer_unit": {
+                "value": 1000,
+                "label": "Millimeters"
+            },
+            "comments": "Brand: APC\r\nModel: AR3307",
+            "tags": [
+                "Rack"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-30",
+            "last_updated": "2019-03-30T02:49:43.490434Z"
+        },
+        {
+            "id": 13,
+            "name": "RACK-TC1",
+            "facility_id": "Z1A-D35",
+            "display_name": "RACK-TC1 (Z1A-D35)",
+            "site": {
+                "id": 9,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/9/",
+                "name": "127Amstel",
+                "slug": "127amstel"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 300,
+                "label": "4-post cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 46,
+            "desc_units": false,
+            "outer_width": 600,
+            "outer_depth": 1200,
+            "outer_unit": {
+                "value": 1000,
+                "label": "Millimeters"
+            },
+            "comments": "",
+            "tags": [
+                "Rack"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-30",
+            "last_updated": "2019-04-05T13:49:02.263148Z"
+        },
+        {
+            "id": 18,
+            "name": "RACK-TC2",
+            "facility_id": "Z1A-D34",
+            "display_name": "RACK-TC2 (Z1A-D34)",
+            "site": {
+                "id": 9,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/9/",
+                "name": "127Amstel",
+                "slug": "127amstel"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 2,
+                "label": "Planned"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": null,
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 46,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack"
+            ],
+            "custom_fields": {},
+            "created": "2019-04-05",
+            "last_updated": "2019-04-05T13:50:00.136836Z"
+        },
+        {
+            "id": 3,
+            "name": "RACK-GC",
+            "facility_id": "FULL RACK 84 en ATS1 sala 2.1 housing 2do piso",
+            "display_name": "RACK-GC (FULL RACK 84 en ATS1 sala 2.1 housing 2do piso)",
+            "site": {
+                "id": 3,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/3/",
+                "name": "1301DelCampo",
+                "slug": "1301delcampo"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 100,
+                "label": "2-post frame"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 45,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-01",
+            "last_updated": "2019-03-30T02:22:25.060884Z"
+        },
+        {
+            "id": 10,
+            "name": "RACK-HB1",
+            "facility_id": "5_Floor_1",
+            "display_name": "RACK-HB1 (5_Floor_1)",
+            "site": {
+                "id": 1,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/1/",
+                "name": "1550Humboldt",
+                "slug": "1550humboldt"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": null,
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 40,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [],
+            "custom_fields": {},
+            "created": "2019-03-30",
+            "last_updated": "2019-03-30T02:19:54.962080Z"
+        },
+        {
+            "id": 9,
+            "name": "RACK-HB2",
+            "facility_id": "5_Floor_2",
+            "display_name": "RACK-HB2 (5_Floor_2)",
+            "site": {
+                "id": 1,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/1/",
+                "name": "1550Humboldt",
+                "slug": "1550humboldt"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": null,
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 40,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack",
+                "Rack-HB"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-30",
+            "last_updated": "2019-03-30T02:19:20.462384Z"
+        },
+        {
+            "id": 8,
+            "name": "RACK-HB3",
+            "facility_id": "5_Floor_3",
+            "display_name": "RACK-HB3 (5_Floor_3)",
+            "site": {
+                "id": 1,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/1/",
+                "name": "1550Humboldt",
+                "slug": "1550humboldt"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": null,
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 40,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack",
+                "Rack-HB"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-30",
+            "last_updated": "2019-03-30T02:18:12.819955Z"
+        },
+        {
+            "id": 2,
+            "name": "RACK-HB4",
+            "facility_id": "2_Floor",
+            "display_name": "RACK-HB4 (2_Floor)",
+            "site": {
+                "id": 1,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/1/",
+                "name": "1550Humboldt",
+                "slug": "1550humboldt"
+            },
+            "group": null,
+            "tenant": {
+                "id": 2,
+                "url": "https://netboxqa.xcade.net/api/tenancy/tenants/2/",
+                "name": "Fernando Mantero",
+                "slug": "fernando-mantero"
+            },
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 100,
+                "label": "2-post frame"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 25,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack",
+                "Rack-HB"
+            ],
+            "custom_fields": {},
+            "created": "2019-02-27",
+            "last_updated": "2019-03-30T02:14:57.116210Z"
+        },
+        {
+            "id": 21,
+            "name": "RACK-HB5",
+            "facility_id": "1_Floor",
+            "display_name": "RACK-HB5 (1_Floor)",
+            "site": {
+                "id": 1,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/1/",
+                "name": "1550Humboldt",
+                "slug": "1550humboldt"
+            },
+            "group": null,
+            "tenant": {
+                "id": 2,
+                "url": "https://netboxqa.xcade.net/api/tenancy/tenants/2/",
+                "name": "Fernando Mantero",
+                "slug": "fernando-mantero"
+            },
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 100,
+                "label": "2-post frame"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 25,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [],
+            "custom_fields": {},
+            "created": "2019-08-09",
+            "last_updated": "2019-08-09T14:05:26.701279Z"
+        },
+        {
+            "id": 23,
+            "name": "RACK-HB6",
+            "facility_id": "4_Floor",
+            "display_name": "RACK-HB6 (4_Floor)",
+            "site": {
+                "id": 1,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/1/",
+                "name": "1550Humboldt",
+                "slug": "1550humboldt"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 1100,
+                "label": "Wall-mounted cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 20,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "Cable Coding:\r\nWhite\tAccess Control\r\nOrange\tCcTV\r\nGreen\tWifi\r\nYellow\tInter Equipment (Cascade and UPS)\r\nBlue\tUsers",
+            "tags": [],
+            "custom_fields": {},
+            "created": "2019-08-23",
+            "last_updated": "2019-12-16T17:31:33.532058Z"
+        },
+        {
+            "id": 6,
+            "name": "RACK-RS",
+            "facility_id": "01",
+            "display_name": "RACK-RS (01)",
+            "site": {
+                "id": 4,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/4/",
+                "name": "1670Alvear",
+                "slug": "1670alvear"
+            },
+            "group": null,
+            "tenant": {
+                "id": 3,
+                "url": "https://netboxqa.xcade.net/api/tenancy/tenants/3/",
+                "name": "Javier Caminos",
+                "slug": "javier-caminos"
+            },
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": null,
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 20,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-24",
+            "last_updated": "2019-03-30T02:21:34.160441Z"
+        },
+        {
+            "id": 11,
+            "name": "RACK-EN1",
+            "facility_id": "H1.OF.6.6",
+            "display_name": "RACK-EN1 (H1.OF.6.6)",
+            "site": {
+                "id": 8,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/8/",
+                "name": "1EnterpriseQa",
+                "slug": "1enterpriseqa"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 300,
+                "label": "4-post cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 48,
+            "desc_units": false,
+            "outer_width": 600,
+            "outer_depth": 1200,
+            "outer_unit": {
+                "value": 1000,
+                "label": "Millimeters"
+            },
+            "comments": "# Rack\r\n\r\nBrand: APC\r\nModel: 3307\r\n\r\n## Rack Power\r\n\r\n* By Contract total of 30A 208V (sum of both circuit)\r\n* Each PDU (pdu-en1 and pdu-en2) goes to one circuit\r\n* Each PDU has two bank. Each Back can support max of XXA\r\n\r\nNote: We must support have the full power consumpsion in one PDU\r\n\r\n\r\n\r\n\r\n## Spare Parts\r\n### Inside Rack\r\n\r\n    2 x Fiber Optical Adapter (LC/UPC Female to SC/UPC Male Duplex Single Mode) in Fiber qfx-28-2, yellow and blue.\r\n    24 x 2.5\" Disks Trays\r\n    2 x Fiber Optical Adapter (LC/UPC Female to SC/UPC Male Duplex Single Mode)\r\n    5 x LSI CacheVault Card (MR LSICVM02)\r\n    1 x LSI MegaRAID SAS 9361-4i Controller\r\n    1 x Broadcom FBU02 6.4F 13.5V Battery w/ Server Adapter and cable\r\n    1 x Cisco 1841\r\n    1 x Juniper SRX100B\r\n    1 x Ubiquity with power source\r\n    1 X SASSAN Switch LSI 6160 + Power Supply\r\n    2 x Twin Power supply PN: PWS-1K62P-1R (one will be moved to TH?)\r\n    3 x CISCO ASA 5505\r\n    1 x CISCO ASA 5505 Power Supply\r\n    2 x 1ft red thick UTP\r\n    2 x 1ft yellow thick UTP\r\n    2 x 1ft PDU power cable with square outlet\r\n    8 x 7ft blue thin UTP\r\n    8 x 7ft white thin UTP\r\n    8 x 7ft yellow thin UTP\r\n    8 x 10ft blue thin UTP\r\n    6 x 10ft white thin UTP\r\n    8 x 10ft yellow thin UTP\r\n    1 x 2ft blue thin UTP\r\n    2 x 3ft blue thick UTP",
+            "tags": [
+                "Rack",
+                "Rack-EN"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-30",
+            "last_updated": "2020-01-23T17:03:23.601652Z"
+        },
+        {
+            "id": 20,
+            "name": "RACK-EN2",
+            "facility_id": "H1.OF.6.1",
+            "display_name": "RACK-EN2 (H1.OF.6.1)",
+            "site": {
+                "id": 8,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/8/",
+                "name": "1EnterpriseQa",
+                "slug": "1enterpriseqa"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": null,
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 48,
+            "desc_units": false,
+            "outer_width": 650,
+            "outer_depth": 1200,
+            "outer_unit": {
+                "value": 1000,
+                "label": "Millimeters"
+            },
+            "comments": "# Rack\r\n\r\nBrand: APC\r\nModel: 3307\r\nSerial: ON133818\r\n\r\n## Spare parts\r\n### Drawer\r\n    1 x Toolbox\r\n    5 x Disks to destroy (pictures of w/ brand, model, S/N info in ownCloud)\r\n    4 x AOC-S25G-B2S-O (SuperMicro 25G PCIE Card + Full size bracket) \r\n    1 x CBL-SFF8643-SATASB-10M (Mini SAS HD Int to 4 SATA, sideband, 1 meter)\r\n    1 x Bolsa Tapones Fibra Varios\r\n    2 x 1m QSFP-4SFP10G-DAC (JU) (Breakout cable 10G)\r\n    1 x 1.65m Q-4S28PC0165 (JU) (Breakout cable 25G)\r\n    1 x QSFP-PIR4-40G JU Module\r\n    1 x QSFP28-LR4-100G JU Module\r\n    2 x 9/125 Single Mode Fiber Patch 1.5m LC/UPC-SC/UPC Duplex\r\n    2 x MTP MPO Fiber Patch Cable LC/SC Single Mode 2mts (fs.com PID: 31135)\r\n    2 x MTP MPO Fiber Patch Cable (1xMTP-12 Female to 4 LC UPC Duplex P/N: 2FMTPLCSMF) \r\n    2 x EX-SFP-10GE-LR-SO\r\n    5 x LSI CacheVault Card (MR LSICVM02)\r\n    1 x LSI MegaRAID SAS 9361-4i Controller\r\n    1 x Broadcom FBU02 6.4F 13.5V Battery w/ Server Adapter and cable\r\n    2 x Falcon 600GB - From drv-F376 to drv-F377\r\n    1 x Pig 1TB drv-P71\r\n    1 x SSD 2TB drv-Q1 (drv-Q2 Broken)\r\n    1 x Falcon 300GB drv-F219\r\n    4 x 8TB SAS 3.5\" (for physinfra)\r\n    1 x HDD Western Digital 500GB Enterprise Class\r\n    9 x HDD Seagate Constellations ES .3 SED 4TB (drv-Bxxx) (M: ST4000NM0043)\r\n      drv-B19 (Z1Z22KEB), drv-B20 (Z1Z22KF2), drv-B21 (Z1Z22KLK), drv-B22 (Z1Z22KS0), drv-B23 (Z1Z38XFX), drv-B24 (Z1Z38XG2), drv-B25 (Z1Z38XJJ), drv-B26 (Z1Z38XMW), drv-27 (Z1Z38XNY)\r\n    1 x 4TB ST4000LM024\r\n\r\n### Plastic container black and yellow\r\n\r\n| Type        | Color | Length | QTY |\r\n| ----------- | ----- | ------ | --- |\r\n| C13/C14     | Black | 30 cm  | 15  |\r\n| C13/C14     | Black | 50 cm  | 19  |\r\n| C13/C14     | Black | 60 cm  | 6   |\r\n| C13/C14     | Black | 80 cm  | 2   |\r\n| C13/C14     | Black | 90 cm  | 4   |\r\n| C13/C14     | Black | 150 cm | 2   |\r\n| C13/C14     | Black | 260 cm | 1   |\r\n| C13/C14     | Red   | 30 cm  | 6   |\r\n| C13/C14     | Red   | 50 cm  | 4   |\r\n| C13/C14     | Red   | 60 cm  | 3   |\r\n| C13/C14     | Red   | 80 cm  | 2   |\r\n| C13/C14     | Red   | 120 cm | 8   |\r\n| C13/C14     | Red   | 150 cm | 5   |\r\n| C13/C14     | Blue  | 60 cm  | 1   |\r\n| C14/C20     | Black | 30 cm  | 2   |\r\n| C14/C20     | Black | 50 cm  | 2   |\r\n| C14/C20     | Black | 60 cm  | 2   |\r\n| C14/C20     | Red   | 30 cm  | 1   |\r\n| C14/C20     | Red   | 50 cm  | 1   |\r\n| C14/C20     | Red   | 60 cm  | 2   |\r\n| Securesleve | Black |        | 10  |\r\n| Securesleve | Red   |        | 12  |\r\n\r\n### Plastic container on top of the drawer\r\n#### cat6 patch:\r\n  - yellow cables:\r\n    - 37 x 3ft\r\n    - 17 x 5ft\r\n    - 6 x 7ft\r\n    - 4 x 10ft\r\n  - blue:\r\n    - 14 x 5ft\r\n    - 5 x 7ft\r\n    - 42 x 3ftA\r\n  - red:\r\n    - 5 x 5ft\r\n    - 7 x 3ft\r\n  - white:\r\n    - 12 x 3ft\r\n    - 20 x 5ft\r\n    - 20 x 7ft\r\n  - orange:\r\n    - 6 x 3ft\r\n  - 26 x various 7ft\r\n#### Fiber\r\n - 2 x LC-SC single mode 1,5m",
+            "tags": [
+                "Rack-EN"
+            ],
+            "custom_fields": {},
+            "created": "2019-07-06",
+            "last_updated": "2020-01-28T21:45:25.246995Z"
+        },
+        {
+            "id": 4,
+            "name": "RACK-GU1",
+            "facility_id": "0302",
+            "display_name": "RACK-GU1 (0302)",
+            "site": {
+                "id": 6,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/6/",
+                "name": "310Gutleut",
+                "slug": "310gutleut"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 300,
+                "label": "4-post cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 47,
+            "desc_units": false,
+            "outer_width": 800,
+            "outer_depth": 1200,
+            "outer_unit": {
+                "value": 1000,
+                "label": "Millimeters"
+            },
+            "comments": "Brand: Rittal\r\nModel: 5516110 - TS IT",
+            "tags": [
+                "Rack"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-24",
+            "last_updated": "2019-09-16T20:39:13.042247Z"
+        },
+        {
+            "id": 17,
+            "name": "RACK-LAB-MD",
+            "facility_id": "3_Floor_2",
+            "display_name": "RACK-LAB-MD (3_Floor_2)",
+            "site": {
+                "id": 5,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/5/",
+                "name": "3Marques",
+                "slug": "3marques"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 300,
+                "label": "4-post cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 42,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack",
+                "RACK-MD"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-30",
+            "last_updated": "2019-03-30T15:15:49.139843Z"
+        },
+        {
+            "id": 12,
+            "name": "RACK-MD1",
+            "facility_id": "3_Floor_1",
+            "display_name": "RACK-MD1 (3_Floor_1)",
+            "site": {
+                "id": 5,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/5/",
+                "name": "3Marques",
+                "slug": "3marques"
+            },
+            "group": null,
+            "tenant": {
+                "id": 4,
+                "url": "https://netboxqa.xcade.net/api/tenancy/tenants/4/",
+                "name": "Jorge Crespo",
+                "slug": "jorge-crespo"
+            },
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 300,
+                "label": "4-post cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 42,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack",
+                "RACK-MD"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-30",
+            "last_updated": "2019-03-30T02:31:09.386838Z"
+        },
+        {
+            "id": 15,
+            "name": "RACK-MD2",
+            "facility_id": "4_Floor",
+            "display_name": "RACK-MD2 (4_Floor)",
+            "site": {
+                "id": 5,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/5/",
+                "name": "3Marques",
+                "slug": "3marques"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 300,
+                "label": "4-post cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 32,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack",
+                "RACK-MD"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-30",
+            "last_updated": "2019-03-30T15:11:53.339301Z"
+        },
+        {
+            "id": 16,
+            "name": "RACK-MD3",
+            "facility_id": "6_Floor",
+            "display_name": "RACK-MD3 (6_Floor)",
+            "site": {
+                "id": 5,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/5/",
+                "name": "3Marques",
+                "slug": "3marques"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 1100,
+                "label": "Wall-mounted cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 12,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack",
+                "RACK-MD"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-30",
+            "last_updated": "2019-03-30T15:14:45.270536Z"
+        },
+        {
+            "id": 22,
+            "name": "RACK-MD4",
+            "facility_id": "5_Floor",
+            "display_name": "RACK-MD4 (5_Floor)",
+            "site": {
+                "id": 5,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/5/",
+                "name": "3Marques",
+                "slug": "3marques"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 100,
+                "label": "2-post frame"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 24,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [],
+            "custom_fields": {},
+            "created": "2019-08-22",
+            "last_updated": "2019-10-04T13:25:56.265404Z"
+        },
+        {
+            "id": 7,
+            "name": "RACK-SH",
+            "facility_id": "SH5:02:000020:0221",
+            "display_name": "RACK-SH (SH5:02:000020:0221)",
+            "site": {
+                "id": 10,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/10/",
+                "name": "619Longchang",
+                "slug": "619longchang"
+            },
+            "group": null,
+            "tenant": {
+                "id": 6,
+                "url": "https://netboxqa.xcade.net/api/tenancy/tenants/6/",
+                "name": "Pablo Schandin",
+                "slug": "pablo-schandin"
+            },
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 1100,
+                "label": "Wall-mounted cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 47,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-25",
+            "last_updated": "2019-03-30T02:22:44.424339Z"
+        },
+        {
+            "id": 25,
+            "name": "RACK-CR1-DC",
+            "facility_id": null,
+            "display_name": "RACK-CR1-DC",
+            "site": {
+                "id": 12,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/12/",
+                "name": "630HumbertoPrimo",
+                "slug": "630humbertoprimo"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": null,
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 40,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [],
+            "custom_fields": {},
+            "created": "2020-01-28",
+            "last_updated": "2020-01-28T13:35:09.072016Z"
+        },
+        {
+            "id": 26,
+            "name": "RACK-CR2-H26",
+            "facility_id": null,
+            "display_name": "RACK-CR2-H26",
+            "site": {
+                "id": 12,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/12/",
+                "name": "630HumbertoPrimo",
+                "slug": "630humbertoprimo"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 1100,
+                "label": "Wall-mounted cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 20,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [],
+            "custom_fields": {},
+            "created": "2020-01-28",
+            "last_updated": "2020-01-28T13:36:00.811130Z"
+        },
+        {
+            "id": 1,
+            "name": "RACK-BB1",
+            "facility_id": "4_Floor",
+            "display_name": "RACK-BB1 (4_Floor)",
+            "site": {
+                "id": 2,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/2/",
+                "name": "750Vieytes",
+                "slug": "750vieytes"
+            },
+            "group": null,
+            "tenant": {
+                "id": 1,
+                "url": "https://netboxqa.xcade.net/api/tenancy/tenants/1/",
+                "name": "Guillermo Gerbatin",
+                "slug": "guillermo-gerbatin"
+            },
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": "rack-bb1",
+            "type": {
+                "value": 100,
+                "label": "2-post frame"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 40,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "Rack",
+                "RACK-BB"
+            ],
+            "custom_fields": {},
+            "created": "2019-02-26",
+            "last_updated": "2019-03-30T02:21:04.452974Z"
+        },
+        {
+            "id": 24,
+            "name": "RACK-BB2",
+            "facility_id": "5thFloor",
+            "display_name": "RACK-BB2 (5thFloor)",
+            "site": {
+                "id": 2,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/2/",
+                "name": "750Vieytes",
+                "slug": "750vieytes"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 100,
+                "label": "2-post frame"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 24,
+            "desc_units": false,
+            "outer_width": null,
+            "outer_depth": null,
+            "outer_unit": null,
+            "comments": "",
+            "tags": [
+                "RACK-BB"
+            ],
+            "custom_fields": {},
+            "created": "2019-08-23",
+            "last_updated": "2019-08-23T18:55:36.776276Z"
+        },
+        {
+            "id": 5,
+            "name": "RACK-TH1",
+            "facility_id": "Site H, Cage H, NN36 (second floor)",
+            "display_name": "RACK-TH1 (Site H, Cage H, NN36 (second floor))",
+            "site": {
+                "id": 7,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/7/",
+                "name": "7Teleport",
+                "slug": "7teleport"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 300,
+                "label": "4-post cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 42,
+            "desc_units": false,
+            "outer_width": 600,
+            "outer_depth": 1070,
+            "outer_unit": {
+                "value": 1000,
+                "label": "Millimeters"
+            },
+            "comments": "Brand: APC\r\nModel: AR3100\r\n\r\nSpare parts inside the rack\r\n```\r\n1 x Cisco ASA 5505 series SN: JMX1830Z0D4 with power supply and adapter for pdu.\r\n```",
+            "tags": [
+                "Rack"
+            ],
+            "custom_fields": {},
+            "created": "2019-03-24",
+            "last_updated": "2020-01-15T18:26:08.731571Z"
+        },
+        {
+            "id": 19,
+            "name": "RACK-TH2",
+            "facility_id": "Room 2007, JJ29 (second floor)",
+            "display_name": "RACK-TH2 (Room 2007, JJ29 (second floor))",
+            "site": {
+                "id": 7,
+                "url": "https://netboxqa.xcade.net/api/dcim/sites/7/",
+                "name": "7Teleport",
+                "slug": "7teleport"
+            },
+            "group": null,
+            "tenant": null,
+            "status": {
+                "value": 3,
+                "label": "Active"
+            },
+            "role": null,
+            "serial": "",
+            "asset_tag": null,
+            "type": {
+                "value": 300,
+                "label": "4-post cabinet"
+            },
+            "width": {
+                "value": 19,
+                "label": "19 inches"
+            },
+            "u_height": 48,
+            "desc_units": false,
+            "outer_width": 750,
+            "outer_depth": 1200,
+            "outer_unit": {
+                "value": 1000,
+                "label": "Millimeters"
+            },
+            "comments": "Brand: APC\r\nModel: AR3347 (NetShelter SX 48U 750mm Wide x 1200mm Deep Networking Enclosure with Sides Black)\r\n\r\nIn Drawer-th1\r\n```\r\n1 x Toolkit w/ electrical screwdriver, tips, ...\r\n1 x Toolbox\r\n1 x Small (black) toolkit case folder with a screwdriver and different tips, a pair of clippers, Allen keys and an antistatic bracelet (on the floor of the rack).\r\n1 x PDU console cable (serie to RJ11)\r\n2 x DOM Disks without power cables. SN:OA15CU00249 and OA15CU002477\r\n3 X external battery for RAID controller (TECATE PowerBurst 13.5V 6.4F LSI 49571-03 Rev A)\r\n1 x 1ft black RJ45\r\n2 x 16 GB \"Kingston\" memory\r\n4 x low profile bracket of the new quad net card of physinfra\r\n6 Pig old drives NOT SED 1TB (drv-P1 / drv-P2) 450GB (drv-P6,drv-P7,drv-P8,drv-P9)\r\n9 x Falcon 600GB - drv-F367\r\n1 x Seagate (labeld drv-F294) 15K HDD v5 12 Gb/s SN S7MON7Q3 with socket\r\n4 x 3.5TB SAS 3.5\" (extracted from physinfra-th4)\r\n1 x SAS Connector\r\n14 x Rosewill SATA III Cables\r\n4 x LSICVM02 Cache Vault devices\r\n2 x Super Micro AOC-S25G-B2S 25G LAN Adapters\r\n2 x SFP 1G EX-SFP-1GE-SX-SO\r\n1 x Serial to RJ45 adapter\r\n2 x LSI PCIE SAS 6Gb/s Card w/ Battery (External Connectors)\r\n1 x SFP 40G FS QSFP-PIR4-40G\r\n1 x SFP 100G FS QSFP28-LR4-100G\r\n```\r\n\r\nHanging On Rack:\r\n```\r\n3 x BREAKOUT QSFP-4SFP10G-DAC JU 1M\r\n2 x BREAKOUT Q-4SPC005 JU 0.5M\r\n2 x BREAKOUT Q-4S28PC02 JU 2M\r\n2 x MPO-SC 2M\r\n2 x MPO-SC 1.5M\r\n2 x MPO-LC 2M\r\n2 x ADAPTADOR LC SC\r\n9 x PATCH CORD RJ45 10ft white\r\n5 x PATCH CORD RJ45 1ft white\r\n5 x 5PACK PATCH CORD RJ45 7ft white\r\n1 x 5PACK PATCH CORD RJ45 5ft white\r\n```\r\n\r\nUpdated: 2020-01-15\r\n\r\n\r\nPower cables on plastic container:\r\n```\r\n  -  c13/c14:\r\n    - black:\r\n      - 14 x 30cm\r\n      - 3 x 180cm\r\n      - 6 x 200cm\r\n      - 1 x 150cm\r\n      - 1 x 160cm\r\n      - 3 x 200cm\r\n      - 1 x 180cm\r\n      - 3 x 90cm \r\n      - 7 x 50cm\r\n      - 1 x 450cm\r\n    - red:\r\n      - 12 x 30cm\r\n      - 2 x 60 cm\r\n      - 8 x 180cm\r\n      - 4 x 200cm\r\n      - 3 x 120cm\r\n      - 5 x 50cm\r\n      - 2 x 50cm\r\n  - c13/c20:\r\n    - black:\r\n      - 1 x 250cm\r\n      - 2 x 30cm\r\n    - red:\r\n      - 1 x 250cm\r\n      - 1 x 50cm\r\n      - 1 x 30cm\r\n  - 1 x c13/american plug\r\n  - 19 x sleeves black\r\n  - 23 x sleeves red\r\n10 power cable black 1,5 feet\r\n```\r\nUpdated: 2020-01-28\r\n\r\nSpare breakout and fiber on top of the drawer\r\n```\r\nbreakout\r\n1 x 40G 115cm\r\n3 x 40G 100cm\r\n2 x 40G 50cm     \r\n1 x 100G 115cm\r\n1 x 100G 200cm\r\n2 x 100G 145cm\r\n\r\nfiber\r\n4 x mtp mpo to lc single mode 100cm (pn 68048)\r\n2 x mtp mpo to lc single mode 200cm (pn 69021)\r\n```\r\nUpdated: 2020-01-28",
+            "tags": [
+                "Rack",
+                "RACK-TH"
+            ],
+            "custom_fields": {},
+            "created": "2019-07-06",
+            "last_updated": "2020-02-21T14:04:47.491670Z"
+        }
+    ]
+}
